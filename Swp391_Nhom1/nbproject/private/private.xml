@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group/>
+        <group name="Pro192">
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/updateCategory.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/AddCategory.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/accountManagerment.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/addCategory.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/DeleteCategory.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/updateBrand.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/BanUser.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/updateProduct.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/BrandMangerment.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/CategoryManagerment.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/UpdateProduct.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/productManage.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Model/User.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/updateAccount.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/LoginServlet.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Dal/DBContext.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/roleManagerment.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/AddProduct.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Dal/BrandDao.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/UpdateBrand.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Dal/ProductDao.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/banUser.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/UpdateRole.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/DeleteBrand.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Model/Brand.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/UpdateCategory.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/CategoryServlet.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/categoryManagerment.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/addBrand.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/BrandServlet.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Dal/AccountDao.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/AddBrandServlet.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/brandManagerment.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/DeleteAccount.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Dal/CartDao.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/updateRole.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/login.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/AllProductServlet.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/homeAdmin1.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Dal/CategoryDao.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/changePassword.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/home.jsp</file>
+        </group>
+    </open-files>
+</project-private>
